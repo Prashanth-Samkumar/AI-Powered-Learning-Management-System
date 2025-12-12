@@ -9,7 +9,7 @@ router = APIRouter()
 class ChatRequest(BaseModel):
     message: str
     course_id: Optional[str] = None
-    # session_id: str
+   
 
 
 class ChatResponse(BaseModel):
