@@ -8,6 +8,7 @@ const AppContextProvider = (props) => {
     return storedUser ? JSON.parse(storedUser) : false;
   });
 
+
   
   const [showLogin, setShowLogin] = useState(false);
   const [showSignUp, setShowSignUp] = useState(false);
