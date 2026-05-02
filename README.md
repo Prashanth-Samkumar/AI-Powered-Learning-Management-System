@@ -23,6 +23,7 @@ StudIQ is a modern Learning Management System (LMS) designed to bridge the gap b
 - **Node.js (Express):** REST API for user, course, and material management.
 - **Sequelize & PostgreSQL:** Relational database for user, course, and material data.
 
+
 ## Frontend Tech Stack
 - **React:** Modern SPA for students, teachers, and admins.
 - **Tailwind CSS:** Utility-first CSS framework for rapid UI development.
