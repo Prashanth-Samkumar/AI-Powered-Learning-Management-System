@@ -14,6 +14,8 @@ StudIQ is a modern Learning Management System (LMS) designed to bridge the gap b
 
 
 
+
+
 ## AI & Backend Tech Stack
 - **Python (FastAPI):** Main backend for AI and chat endpoints.
 - **LangChain:** Framework for building RAG pipelines and LLM chains.
